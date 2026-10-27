@@ -50,7 +50,7 @@ The Quiz App is a beginner-level project created to explore application developm
 
 ## Author
 
-**Kanishka Tripathi**
+**Anisha Pachar**
 
-* GitHub: [Kanishka-Tripathi2007](https://github.com/Kanishka-Tripathi2007)
-* Project Repository: [Quiz-cursor-](https://github.com/Kanishka-Tripathi2007/Quiz-cursor-)
+* GitHub: [Kanishka-Tripathi2007](https://github.com/anishaa359)
+* Project Repository: [Quiz-cursor-](https://github.com/anishaa359/Quiz-Cursor)
